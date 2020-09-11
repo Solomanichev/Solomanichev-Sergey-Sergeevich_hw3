@@ -7,4 +7,5 @@ int main (int argc, char *argv[])
 {
 	cout << "Hello Git! Task 3" << endl;
 	cout << "My new rating" << endl;
+	cout << "Comment was added" << endl;
 }
