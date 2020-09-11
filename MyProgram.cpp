@@ -5,5 +5,5 @@ using namespace std;
 
 int main (int argc, char *argv[])
 {
-	cout << "Hello Git! Task ¹3" << endl;
+	cout << "My new rating" << endl;
 }
